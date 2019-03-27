@@ -1,0 +1,1507 @@
+.main-navigation a {
+    padding: 1em 0em;
+    float: right !important;
+    position: relative;
+    z-index: 99;
+    left: -35px;
+    top: -55px;
+}
+.wpcf7-response-output {
+    margin: 10px !important;
+    padding: 5px !important;
+    color: #fff !important;
+    text-align: center !important;
+    border: 0 !important;
+    background-color: #2b86e8;
+}
+.team-linkd {
+    margin-top: 5px;
+}
+.team-con a {
+    color: #fff !important;
+}
+
+.team-linkd a {
+    color: #fff !important;
+}
+
+.ser-sec a {
+    color: #4a90e2 !important;
+}
+a, img, a:hover {
+    box-shadow: none !important;
+}
+.round-corner img {
+    border-radius: 35px;
+}
+.pop-btn-box a {
+    color: #fff !important;
+    background-color: #2c83e5 !important;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: none !important;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 30%;
+}
+.menu-add a {
+    color: #fff !important;
+}
+.no-text a {
+    color: #fff !important;
+}
+.servic-text a {
+    color: #287ad4 !important;
+}
+.site-content-contain {
+    background-color: #000;
+}
+
+header#masthead {
+    background: #000;
+}
+.team-img {
+    margin-bottom: 0;
+}
+.main-logo {
+    padding-top: 35px;
+    padding-left: 35px;
+  width: 50%;
+}
+
+div.fullscreenmenu ul.nav-menu li {
+    border-bottom: none !important;
+}
+
+div.fullscreenmenu ul.nav-menu li a {
+    padding: 25px 0 !important;
+}
+
+.wrap {
+    padding-bottom: 0em !important;
+    padding-top: 0em !important;
+}
+
+.slid-text::after {
+    content: "";
+    height: 7px;
+    width: 25%;
+    background-color: #4990E2;
+    display: block;
+    border-radius: 8px;
+    margin-top: 45px;
+}
+
+.entry-content {
+    width: 100% !important;
+    float: none !important;
+}
+
+h2.entry-title {
+    display: none;
+}
+
+
+div.fullscreenmenu ul.nav-menu {
+    font-size: 4.3em !important;
+    font-family: OpenSans, Open Sans !important;
+    margin-top: 4.3em !important;
+    text-align: right;
+    margin-right: 100px !important;
+}
+
+header#masthead {
+    background: #000;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+
+div.fullscreenmenu ul.nav-menu li a {
+    padding: 5px 0 !important;
+}
+
+div.fullscreenmenu ul.nav-menu li a:hover {
+    color: #4A90E2 !important;
+}
+
+
+.menu-right {
+    font-size: 20px;
+    color: #000;
+    margin-top: 15%;
+    text-align: left;
+    
+}
+
+.menu-right div#text-2 {
+    color: #fff;
+}
+
+.menu-add {
+    margin-bottom: 30px;
+}
+
+.menu-email {
+    margin-top: 55px;
+}
+
+.menu-email a {
+    color: #fff;
+}
+
+.menu-email a:hover {
+    color: #4A90E2
+}
+
+div.fullscreenmenu .navcontent {
+  background-repeat: no-repeat !important;
+    background-image: url(https://evolutionlawyers.nz/wp-content/uploads/2018/01/menubg1-min.png);
+    background-size: cover !important;
+    background-position: center center !important;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    visibility: inherit;
+    z-index: 20;
+}
+
+.widget a{
+      box-shadow: none !important;
+}  
+
+.site-footer .wrap {
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+    max-width: 1200px;
+}
+
+.site-footer .widget-column.footer-widget-1 {
+    float: none;
+    width: 100%;
+}
+
+.site-footer .textwidget {
+    font-size: 16px;
+    color: #666;
+}
+
+.site-footer .site-info {
+    display: none;
+}
+
+.site-footer .widget {
+    padding-bottom: 0em;
+}
+
+.con-form {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.con-form input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    border-radius: 8px;
+    margin-bottom: 40px;
+    height: 55px;
+}
+
+.con-form textarea.wpcf7-form-control.wpcf7-textarea {
+    border-radius: 10px;
+    height: 200px;
+}
+
+.sub-btn input.wpcf7-form-control.wpcf7-submit {
+    font-size: 20px;
+    line-height: 20px;
+    position: relative;
+    margin-top: 0px;
+    top: 10px;
+    box-shadow: none;
+    z-index: 99;
+    font-weight: 500;
+    float: right;
+    color: rgb(43, 133, 229) !important;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    background-repeat: no-repeat !important;
+    background-position: right center !important;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    font-family: Roboto;
+    border-radius: 5px;
+    padding: 20px 60px 20px 30px;
+    letter-spacing: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    opacity: 1;
+}
+
+.con-form .sub-btn:after {
+    content: "";
+    width: 45px !important;
+    height: 40px !important;
+    background: url(https://evolutionlawyers.nz/wp-content/uploads/2017/09/send.png) !important;
+    top: 20px !important;
+    right: 25px !important;
+    position: absolute !important;
+    display: inline-block !important;
+    z-index: 99999;
+}
+
+
+.vc_col-sm-12.last-col-form {
+    padding: 20px 0px;
+}
+
+.wrap {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.twentyseventeen-panel {
+    width: 100%;
+}
+.site-footer {
+    border-top: 0 !important;
+}
+.site-footer .wrap {
+    border-top: 1px solid #8a8a8a;
+}
+/*
+a.animateddrawer {
+    background-repeat: no-repeat !important;
+    background-image: url(https://evolutionlawyers.nz/wp-content/uploads/2017/09/menuicon-1.png) !important;
+    background-color: transparent !important;
+    background-size: contain !important;
+    font-size: 0;
+    height: 37px !important;
+    width: 73px !important;
+    display: block !important;
+}
+*/
+.header-social {
+    position: absolute;
+    right: 9%;
+    top: 40px;
+}
+
+.header-social li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.header-social li img {
+    max-width: 42px;
+}
+
+.overlay-box-open {
+    background-color: transparent !important;
+}
+
+.no-text p {
+    color: #2a85e8;
+}
+
+.site-footer .wrap {
+    margin-top: 35px;
+}
+
+.imgup-text {
+    position: absolute;
+    z-index: 99;
+    color: #fff;
+    font-size: 22px;
+    width: 79%;
+    margin-top: -390px;
+}
+
+.left-text {
+    font-size: 65px;
+    color: #fff;
+    padding-top: 188px;
+    padding-left: 100px;
+    padding-right: 35%;
+    line-height: 75px;
+}
+
+.left-text::after {
+    content: "";
+    height: 7px;
+    width: 35%;
+    background-color: #4990E2;
+    display: block;
+    border-radius: 8px;
+    margin-top: 25px;
+}
+
+.icon-sec {
+    margin-top: 60px !important;
+}
+
+
+.ser-sec {
+    color: #fff;
+    font-size: 18px;
+    width: 62%;
+    margin-bottom: 60px;
+}
+
+.ser-sec h4 {
+    color: #fff;
+    font-size: 21px;
+}
+
+.icon-img {
+    background: #4a90e2;
+    padding: 30px 30px;
+    border-radius: 8px;
+    position: relative;
+    z-index: 999;
+    left: -50px;
+    width: 63%;
+    margin-bottom: 60px;
+    text-align: center !important;
+}
+
+
+
+.vc_row[data-vc-full-width] {
+    overflow: visible !important;
+}
+
+.serup-sec {
+    position: relative;
+    z-index: 99;
+    top: -32px;
+}
+
+.imgup-text1 {
+    position: absolute;
+    z-index: 99;
+    color: #fff;
+    font-size: 22px;
+    width: 68%;
+    margin-top: -60px;
+}
+
+.cbg-img img {
+    position: relative;
+    z-index: 99;
+    left: -60px;
+    top: 85px;
+}
+
+.qus-text {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 100px;
+    padding-right: 35%;
+}
+
+
+.talk-sec .left-text {
+    padding-right: 0px;
+    padding-top: 100px;
+}
+
+.no-text {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.call-icon {
+    font-size: 1.4em !important;
+    margin-top: -20px;
+}
+
+.call-no {
+    padding-left: 80px;
+}
+
+.talk-sec .left-text::after {
+    width: 22%;
+}
+
+.form-sec .vc_column-inner {
+    background: #2b84e5 url(https://evolutionlawyers.nz/wp-content/uploads/2018/01/formbg-min.png) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+header.entry-header {
+    display: none;
+}
+
+.site-content {
+    padding: 0 !important;
+}
+
+.ad-headding {
+    font-size: 60px;
+    color: #478bda;
+    font-weight: 500;
+    position: relative;
+      font-family: sans-serif;
+}
+
+.ad-headding b {
+    color: #fff;
+    font-weight: 500;
+}
+
+.ad-headding b::after {
+    content: "";
+    height: 7px;
+    width: 110px;
+    background-color: #4990E2;
+    border-radius: 8px;
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+}
+
+.giides-text {
+    color: #fff;
+    font-size: 22px;
+   padding-left: 100px;
+    width: 90%;
+}
+
+.guide-second-box .vc_single_image-wrapper {
+    padding: 20px 15px;
+    background-color: #4990e2;
+    border-radius: 10px;
+}
+
+.guide-icon-head {
+    text-align: center;
+    margin-top: 30px;
+}
+.guide-icon-head h4 {
+    color: #fff;
+    font-size: 22px;
+    letter-spacing: 0.1em;
+}
+
+.point-head h2 {
+   text-align: center;
+    color: #4990e2;
+    font-size: 58px;
+    padding-bottom: 20px;
+    letter-spacing: 0.05em;
+    padding-top: 150px;
+    font-weight: 600;
+}
+
+.icon-inner-row {
+    padding: 0 15%;
+}
+
+.site-footer {
+    margin-top: 0;
+}
+
+.guide-second-box {
+    background-image: url(https://evolutionlawyers.nz/wp-content/uploads/2017/10/loin.png?id=80) !important;
+    background-position: left bottom !important;
+    background-repeat: no-repeat !important;
+    /* background-size: cover !important; */
+    padding-bottom: 100px;
+}
+
+.point-head-first h2 {
+    padding-top: 0;
+}
+
+.page-option-bg {
+    text-align: center;
+}
+
+.page-option-bg li {
+    display: inline-block;
+    padding: 120px 100px 80px;
+    list-style: none;
+}
+.page-option-bg li a {
+    color: #fff !important;
+    font-size: 55px;
+      font-weight: 500;
+}
+
+.page-op-bg {
+    background-image: url(https://evolutionlawyers.nz/wp-content/uploads/2017/10/feesbg.jpg?id=91) !important;
+    background-position: center bottom;
+}
+.page-option-bg .p-act a {
+    color: #2a82e4 !important;
+}
+.p-act a::after {
+    content: "";
+    height: 7px;
+    background-color: #4990E2;
+    display: block;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+
+.color-head {
+    text-align: center;
+    color: #fff;
+    font-size: 65px;
+        word-spacing: 0.20em;
+    padding-top: 30px;
+}
+.color-head b {
+    font-weight: normal;
+    color: #2b83e5;
+}
+
+.rates-text {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    width: 60%;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.rates-text h4 {
+    padding-top: 0;
+    color: #2e85e6;
+    font-weight: normal;
+}
+
+.estimate-text {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.rates-text {
+    padding-top: 50px;
+    margin-bottom: 80px;
+}
+
+.estimat-btn a {
+    color: #fff !important;
+    background-color: #2c83e5 !important;
+    display: inline-block;
+    margin-right: 60px;
+    padding: 25px 35px;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: none !important;
+}
+.estimat-btn {
+    padding-top: 30px;
+}
+
+.servic-text {
+    color: #fff;
+    font-size: 18px;
+    width: 63%;
+    margin: auto;
+    margin-top: 30%;
+    position: relative;
+}
+
+.servic-text h4 {
+    color: #2b83e5;
+    font-size: 35px;
+    font-weight: normal;
+    padding-top: 0;
+    margin-bottom: 15px;
+}
+
+.servic-no {
+    color: #2b82e5;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #2a83e5;
+    font-size: 200pt;
+ 
+   font-weight: 600; 
+    position: absolute;
+    margin-left: -110px;
+    top: -30%;
+    opacity: 0.7;
+    font-family: sans-serif;
+   
+}
+
+.servic-row .vc_column-inner {
+    padding: 0;
+}
+
+.servic-row img {
+    width: 100%;
+}
+.servic-box {
+    margin-bottom: 40px;
+}
+
+.menu-social ul {
+    margin-left: 0;
+}
+.menu-social li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+.menu-social li img {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.debat-rea {
+    padding: 50px 25px;
+    border-top: 50px solid #4a90e2;
+}
+.text-row {
+    margin-bottom: 20px;
+}
+
+.fee-block h4 {
+    color: #2c83e5;
+    font-size: 25px;
+}
+
+.fee-table table, .fee-table table td {
+    border: 1px solid #4a90e2;
+}
+
+.debat-rea h4 {
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 8px;
+    padding-top: 0;
+}
+
+.pum-theme-132 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close {
+    height: 34px !important;
+    width: 34px !important;
+    color: #fff !important;
+    background-color: transparent !important;
+    border: 1px solid #fff !important;
+    top: 5px !important;
+    right: 5px !important;
+}
+
+.pum-theme-132 .pum-container, .pum-theme-cutting-edge .pum-container {
+    padding: 0px !important;
+    border-radius: 0px;
+    border: 2px solid #4a90e2 !important;
+    box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ) !important;
+    background-color: #000 !important;
+}
+
+/*.fee-table table td {
+    padding: 8px;*/
+}
+
+.debat-rea {
+    line-height: 25px;
+}
+.debat-rea {
+    line-height: 25px;
+}
+
+.fee-conditions p {
+    margin-bottom: 10px;
+}
+.debat-rea a {
+    color: #4a90e2 !important;
+}
+
+.cove strong {
+    color: #4a90e2;
+    font-weight: 600;
+}
+
+.cove {
+    text-align: center;
+}
+.imgup-text1-catalex a {
+    color: #2a82e4 !important;
+}
+h4.sub-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+.fee-est-row p {
+    width: 80%;
+    margin: auto;
+}
+/*************POP Section******************/
+.debat-rea {
+    padding: 50px 25px 20px;
+	}
+.fee-table {
+    padding: 25px;
+}
+.footer-pop {
+    padding: 25px;
+    padding-top: 0px;
+    font-size: 15px;
+}
+.main-head {
+    font-size: 25px;
+    padding: 20px;
+}
+.down-pdf-pop {
+    text-align: center;
+    padding: 0px 20px 50px;
+}
+.down-pdf-pop a {
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+.down-pdf-pop a:hover {
+   color: #4a90e2;
+}
+.pop-imp-link {
+    padding: 30px;
+    padding-top: 0px;
+}
+.pop-imp-link a:hover, .guide-icon-head a:hover {
+   color: #4a90e2;
+   text-decoration: none;
+}
+.pop-imp-link a, .guide-icon-head a {
+    color: white;
+  text-decoration: none;
+    }
+
+/*************Responsive Start- Home Page******************************************/
+@media only screen and (max-width: 1200px) and (min-width: 1024px) {
+
+  .header-social {
+    right: 11% !important;
+   }
+  div.fullscreenmenu ul.nav-menu {
+     margin-top: 3.5em !important;
+   }
+  
+.tp-parallax-wrap {
+    left: 680px !important;
+}
+  .home-top-row .left-text {
+    padding-top: 120px !important;
+    padding-right: 25% !important;
+   
+}
+.sin-main-img img.vc_single_image-img {
+    height: 1200px !important;
+}
+  .icon-img {
+    width: 80% !important;
+    margin-bottom: 90px !important;
+}
+.ser-sec {
+     width: 60% !important;
+    }
+  .cat-img-left img.vc_single_image-img {
+    padding: 30px;
+}
+  div#contact .left-text {
+    padding-top: 50px !important;
+}
+  .qus-text {
+   padding-right: 20% !important;
+}
+  .site-footer .wrap {
+    width: 90% !important;
+    text-align: center !important;
+}
+  
+    
+} 
+@media only screen and (max-width: 1200px) and (min-width: 1150px) {
+ .tp-parallax-wrap {
+    left: 780px !important;
+}
+}
+@media only screen and (max-width: 1200px) and (min-width: 1100px) {
+
+ .icon-img {
+    width: 80% !important;
+    margin-bottom: 70px !important;
+}
+  .sin-main-img img.vc_single_image-img {
+    height: 1150px !important;
+}
+ }
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+
+.custom-logo-link img {
+       max-height: 35px !important;
+   }
+  .header-social {
+    right: 15% !important;
+    top: 35px !important;
+}
+  div.fullscreenmenu ul.nav-menu {
+     margin-top: 3em !important;
+    }
+  .menu-right {
+     margin-top: 20% !important;
+   }
+  .slid-text {
+    font-size: 30px !important;
+    line-height: 35px !important;
+}
+  .slid-text span {
+    font-size: 30px !important;
+}
+  .tp-parallax-wrap {
+   left: 500px !important;
+}
+ .slid-text::after {
+   margin-top: 30px !important;
+}
+  .home-left-top {
+    padding: 30px;
+}
+  .icon-img {
+    width: 100% !important;
+    margin-bottom: 95px !important;
+   
+}
+  .ser-sec {
+    width: 80% !important;
+   }
+  .sin-main-img img.vc_single_image-img {
+    height: 1150px !important;
+}
+  .imgup-text1 {
+    position: relative !important;
+    color: #fff !important;
+    width: 85% !important;
+    margin-top: -200px !important;
+  
+}
+  .cat-img-left {
+    padding: 30px !important;
+}
+  .qus-text {
+     margin-left: 50px !important;
+    padding-right: 10% !important;
+}
+  div#contact .left-text {
+    padding-top: 50px !important;
+    padding-left: 50px !important;
+}
+  .call-no {
+    padding-left: 40px !important;
+}
+  .site-footer .wrap {
+    margin-top: 35px;
+    width: 90% !important;
+    text-align: center !important;
+}
+  section#text-3 p {
+    margin-bottom: 0px !important;
+}
+   
+}
+@media only screen and (max-width: 1023px) and (min-width: 850px) {
+.tp-parallax-wrap {
+    left: 570px !important;
+}
+  .sin-main-img img.vc_single_image-img {
+    height: 1200px !important;
+}
+  .ser-sec {
+   margin-bottom: 80px !important;
+}
+.imgup-text1 {
+     margin-top: -160px !important;
+}
+  }
+
+@media only screen and (max-width: 767px) and (min-width: 300px) {
+ .tp-parallax-wrap {
+    left: 244px !important;
+  }
+    
+  .header-social {
+    display: none !important;
+}
+
+    a.animateddrawer.bar {
+   
+}
+  .js .menu-toggle {
+     color: white !important;
+}
+  header#masthead {
+    position: unset !important;
+   }
+  .slid-text span {
+    font-size: 20px !important;
+}
+  .slid-text {
+    font-size: 20px !important;
+    line-height: 25px !important;
+}
+  .slid-text::after {
+    margin-top: 15px !important;
+}
+
+ .home-left-top {
+     padding: 20px !important;
+     text-align: center !important;
+}
+  
+  .imgup-text {
+   padding: 20px !important;
+   padding-bottom: 0px !important;
+   width: 100% !important;
+}
+  .icon-img {
+    
+    padding: 30px 20px;
+    left: 0px !important;
+    min-width: 40% !important;
+    text-align: center !important;
+    display: inline-table !important;
+    margin: 20px !important;
+}
+  .serup-sec {
+     top: 0px !important;
+    text-align: center !important;
+}
+  .ser-sec {
+    width: 100% !important;
+   padding: 20px !important;
+    margin-bottom: 0px !important;
+}
+  .cbg-img {
+    text-align: center !important;
+}
+  .cbg-img img {
+    position: unset !important;
+    left: 0px !important;
+    top: 0px !important;
+}
+  .cat-img-left {
+    padding: 20px !important;
+}
+  .imgup-text1 {
+    position: relative !important;
+    width: 100% !important;
+    margin-top: -260px !important;
+    padding: 20px !important;
+}
+  
+  .qus-text {
+     margin-left: 0px !important;
+     padding: 20px !important;
+    margin-bottom: 0px !important;
+}
+  .call-no {
+    padding: 20px !important;
+    display: inline-flex !important;
+}
+  .call-no .vc_col-sm-2 {
+    width: 20% !important;
+}
+  .site-footer .wrap {
+    margin-top: 35px !important;
+    width: 90% !important;
+    text-align: center !important;
+}
+  .textwidget p {
+    margin-bottom: 0px !important;
+}
+  
+}
+ @media only screen and (max-width: 375px) and (min-width: 300px) {
+  
+.tp-parallax-wrap {
+    left: 144px !important;
+}
+}
+/******************************SERVICE- Responsive********************************************/
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+  .servic-text {
+     margin-bottom: 10% !important;
+}
+  .page-option-bg li {
+     padding: 100px 80px !important;
+  }
+   }
+@media only screen and (max-width: 767px) and (min-width: 300px) {
+  .servic-text {
+     margin: 0px !important;
+    width: 100% !important;
+    padding: 20px !important;
+}   
+  .page-option-bg li {
+     
+    padding: 10px 80px !important;
+  }
+}
+@media only screen and (max-width: 375px) and (min-width: 300px) {
+
+.page-option-bg li {
+    padding: 0px !important;
+}
+}
+/******************************SERVICE- FEES  Responsive********************************************/
+
+@media only screen and (max-width: 1023px) and (min-width: 300px) {
+ .estimate-text p {
+    padding-bottom: 30px !important;
+}
+  .estimat-btn {
+    padding-top: 0px !important;
+}
+}
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+
+.estimat-btn a {
+     margin-bottom: 50px !important;
+}
+  .estimate-text p {
+    padding-bottom: 30px !important;
+}
+  .estimat-btn {
+    padding-top: 0px !important;
+}
+  .estimate-text {
+   margin-bottom: 0px !important;
+     padding-top: 50px !important;
+}
+}
+@media only screen and (max-width: 767px) and (min-width: 300px) {
+  
+  .rates-text {
+     width: 100% !important;
+   }
+  .estimat-btn a {
+     box-shadow: none !important;
+    width: 100% !important;
+    margin: 10px !important;
+}
+  .estimat-btn {
+   width: 100% !important;
+   margin: auto !important;
+}
+  .estimat-btn a {
+    width: 90% !important;
+  }
+  .color-head {
+    font-size: 60px;
+    }
+}
+@media only screen and (max-width: 375px) and (min-width: 300px) {
+.estimate-text {
+       margin-bottom: 50px !important;
+}
+  .no-text p {
+    font-size: 26px !important;
+}
+  .color-head {
+     font-size: 50px !important;
+    }
+  .fee-est-row p {
+    width: 100% !important;
+    }
+  .fee-table {
+    padding: 5px;
+}
+  .pop-imp-link {
+    padding: 10px !important;
+   }
+  div#popmake-200 {
+    left: 0px !important;
+}
+  
+}
+@media only screen and (max-width: 767px) and (min-width: 300px) {
+  
+  .giides-text {
+    width: 100% !important;
+    padding: 20px !important;
+}
+   .point-head h2 {
+     padding: 0px !important;
+        font-size: 30px;
+}
+  .guide-second-box {
+    padding-bottom: 50px !important;
+}
+}
+@media only screen and (max-width: 375px) and (min-width: 300px) {
+ .point-head h2 {
+     font-size: 22px !important;
+}
+}
+
+@media screen and (max-width: 767px) {
+   
+a.animateddrawer.bar {
+    display: inline-block !important;
+    z-index: 99999 !important;
+    /* float: none !important; */
+    left: auto !important;
+    margin-top: -10px !important;
+    position: fixed;
+    right: 20px !important;
+        top: 15px !important;
+}
+ .menu-toggle {
+    color: white !important;
+    display: none !important;
+}
+  .main-navigation {
+    text-align: center;
+}
+  .custom-logo-link img {
+    display: inline-block;
+    max-height: 50px;
+    width: auto;
+}
+  .main-logo {
+       width: 70% !important;
+    text-align: left !important;
+}
+  
+  span.bar__name {
+    margin-top: 0px;
+}
+  
+  div.fullscreenmenu ul.nav-menu {
+    font-size: 40px !important;
+    margin-top: 30px !important;
+    text-align: center;
+    margin-right: 0px !important;
+}
+  
+  .menu-right {
+    margin-top: 0;
+    text-align: center;
+}
+  .menu-email {
+    margin-top: 5px;
+}
+  .menu-add {
+    margin-bottom: 15px;
+}
+  .bar:after, .bar:before {
+    width: 50px;
+    height: 6px;
+}
+  .bar:before {
+   
+   
+  
+}
+  .bar:after {
+   
+}
+  .home-left-top {
+    padding: 20px !important;
+    text-align: center !important;
+    font-size: 30px;
+    line-height: 35px;
+}
+  .left-text::after {
+    margin: auto !important;
+    margin-top: 20px !important;
+}
+ .talk-sec .left-text {
+    text-align: center !important;
+    padding: 20px !important;
+    margin-bottom: 0;
+    font-size: 35px;
+    line-height: 38px;
+}
+  a#slide-1-layer-3 {
+    font-size: 13px !important;
+    padding: 2px 10px !important;
+    margin-top: 30px !important;
+}
+  .con-form {
+    padding-left: 5px;
+    padding-right: 5px;
+  
+}
+  .con-form input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    margin-bottom: 25px;
+    height: 45px;
+}
+}
+
+
+@media screen and (max-width: 480px) {
+div.fullscreenmenu ul.nav-menu li a {
+    font-size: 25px;
+}
+  .menu-rightsec {
+    font-size: 15px;
+    margin-top: 20px;
+}
+  .main-logo {
+    padding-top: 35px;
+    padding-left: 5px;
+   
+}
+  .imgup-text1 {
+    margin-bottom: 0px;
+}
+  .call-icon {
+    margin-bottom: 0;
+}
+  .no-text {
+    margin-bottom: 0 !important;
+}
+  .site-footer p {
+    color: #fff;
+}
+}
+@media screen and (max-width: 767px) {
+
+.pop-imp-link a{
+     font-size: 13px !important;
+        width: 100% !important;
+        margin-bottom: 15px !important;
+}
+
+}
+
+
+
+/*******************The Team*********************************/
+.team-top-row .imgup-text {
+    z-index: 99 !important;
+    font-size: 22px;
+    margin-top: 150px !important;
+}
+
+header#masthead {
+      padding-bottom: 15px !important;
+}
+.team-top-row {
+    overflow: hidden !important;
+   padding-bottom: 200px;
+}
+.team-top-row .left-text {
+    padding-right: 30%;
+    }
+.team-img img {
+    background-color: white;
+   
+}
+.team-img-text {
+    color: white !important;
+    text-align: center;
+}
+.team-img-text h3 {
+    color: white;
+    padding-top: 0px;
+}
+.team-detail p {
+    margin-bottom: 0px !important;
+}
+.team-img-text {
+    padding: 10px 20px 20px;
+}
+.team-con i.fa {
+    padding: 5px;
+}
+.team-img-text h3 {
+    color: white;
+    font-weight: 600;
+}
+.team-linkd i.fa.fa-linkedin-square {
+       font-size: 50px;
+}
+.team-detail {
+   background-color: #4886e2;
+    padding: 20px 0px;
+    width: 77%;
+    margin: auto;
+}
+.team-detail h4 {
+    color: white;
+}
+.team-detail {
+    min-height: 209px;
+}
+.team-mem-row {
+    background-position: center;
+    background-size: cover;
+}
+/***************Responsive---Team**************************************/
+
+@media only screen and (min-width: 1400px) {
+
+  .team-detail {
+       width: 71% !important;
+}
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 1024px) {
+  .team-detail {
+    width: 100% !important;
+    min-height: 264px !important;
+       }
+  
+    .team-top-row .left-text {
+    padding-top: 120px !important;
+    padding-right: 20% !important;
+}
+  .team-img-text {
+    padding: 10px 12px 20px !important;
+}
+}
+  @media only screen and (max-width: 1023px) and (min-width: 768px) {
+  .team-top-row .left-text {
+    padding-top: 120px !important;
+    padding-right: 25% !important;
+}
+     .team-top-row .imgup-text {
+    position: unset !important;
+  }
+  .team-top-row {
+   padding-bottom: unset !important;
+}
+ .team-mem-row .team-img img {
+    width: 80% !important;
+}
+  .team-top-row .team-detail {
+    width: 100% !important;
+   }
+ 
+  .team-detail {
+    min-height: 350px !important;
+    width: 100% !important;
+}
+  .team-con i.fa {
+    display: block !important;
+}
+  .team-img-text {
+    padding: 10px 38px 20px !important;
+}
+}
+
+  @media only screen and (max-width: 767px) and (min-width: 300px) {
+
+.team-top-row .imgup-text {
+    margin-top: 0px !important;
+    position: unset !important;
+}
+  .team-top-row {
+    overflow: hidden !important;
+    padding-bottom: unset !important;
+}
+  .team-detail {
+    width: 100% !important;
+   }
+
+  
+  .team-img img {
+    width: 90% !important;
+}
+    
+  }
+@media only screen and (max-width: 374px) and (min-width: 300px) {
+  
+  .team-con i.fa {
+    display: block !important;
+}
+  .pum-overlay{
+    font-size: unset !important;
+     }
+  .debat-rea {
+    padding: 50px 10px 20px !important;
+}
+}
+
+ @media only screen and (max-width: 767px) {
+.sin-main-img {
+    display: none !important;
+}
+  .servic-revers{ display:flex; flex-direction:column-reverse;
+  }  
+.servic-row {
+    padding: 10px;
+}
+  .team-detail {
+    width: 100% !important;
+}
+}
+
+
+
+/* Landscape */
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+.slid-text {
+    margin-left: 180px !important;
+    margin-top: -50px !important;
+}
+  
+  .main-logo {
+    width: 50% !important;
+  
+}
+  a#slide-1-layer-3 {
+    margin-top: -40px !important;
+    margin-left: 180px !important;
+}
+}
+
+@media only screen and (max-width: 380px) {
+.slid-text span {
+    font-size: 15px !important;
+}
+  .slid-text {
+    font-size: 15px !important;
+}
+  .tp-mask-wrap {
+    padding-left: 90px !important;
+}
+}
+@media only screen and (max-width: 320px) {
+   .tp-mask-wrap {
+     padding-left: 50px !important;
+}
+  
+}
+
+
+.icon-img img {
+    width: 80px !important;
+   
+}
+
+.icon-sec {
+   
+    overflow: visible !important;
+}
+.site-footer .widget-column.footer-widget-1 {
+    float: left;
+    width:100%;
+  	text-align: center;
+}
+.site-footer .widget-column.footer-widget-1 a {color:#fff !important; font-weight:normal !important;}
+/*.site-footer .widget-column.footer-widget-2 {
+    float: right;
+    width: 50%;
+}*/
